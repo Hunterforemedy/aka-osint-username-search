@@ -1,0 +1,11 @@
+{
+  "name": "sites_walk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aka \u2014 osint helper",
+  "license": "MIT",
+  "main": "lib/sites_walk.js",
+  "scripts": {
+    "start": "node lib/sites_walk.js"
+  }
+}
